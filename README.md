@@ -1,5 +1,4 @@
-# MyProject is published at 
-<a href="https://kbatyrbayev.github.io/my-project/" target="_blank">THIS!</a>
+# MyProject is published at <a href="https://kbatyrbayev.github.io/my-project/" target="_blank">this link</a>
  
 # MyProject
 
